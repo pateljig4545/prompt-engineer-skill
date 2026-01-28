@@ -22,7 +22,7 @@ npm install -g prompt-engineer-skill
 
 ```bash
 git clone https://github.com/repo-phuocdt/prompt-engineer-skill.git \
-  ~/.claude/custom-skills/prompt-engineer
+  ~/.claude/skills/prompt-engineer
 ```
 
 ## Usage
